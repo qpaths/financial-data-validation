@@ -1,5 +1,10 @@
 # financial-data-validation
 
+[![PyPI](https://img.shields.io/pypi/v/financial-data-validation)](https://pypi.org/project/financial-data-validation/)
+[![Python](https://img.shields.io/pypi/pyversions/financial-data-validation)](https://pypi.org/project/financial-data-validation/)
+[![Tests](https://github.com/qpaths/financial-data-validation/actions/workflows/test.yml/badge.svg)](https://github.com/qpaths/financial-data-validation/actions/workflows/test.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/qpaths/financial-data-validation/blob/main/LICENSE)
+
 Statistical validation for synthetic financial time series.
 
 ## Installation
